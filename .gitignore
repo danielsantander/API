@@ -1,3 +1,12 @@
+
+###############
+# OpenWeather:
+###############
+apis/OpenWeather/sample_data/
+apis/OpenWeather/city.list.json
+settings/creds.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
